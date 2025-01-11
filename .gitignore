@@ -1,0 +1,5 @@
+git init
+git add DataScienceEcosystem.ipynb
+git commit -m "Premier commit de mon notebook Jupyter"
+git remote add origin https://github.com/diadjiii/DataScienceEcosystem 
+git push -u origin main
